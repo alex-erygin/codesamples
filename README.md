@@ -11,6 +11,7 @@ https://github.com/alex-erygin/codesamples/tree/master/sql
 
 #### Старые OpenSourse projects:
 [SqlConnectionDialog](https://github.com/alex-erygin/SqlConnectionDialog)
+
 [safe-config](https://github.com/alex-erygin/safe-config)
 
 #### Другое:
